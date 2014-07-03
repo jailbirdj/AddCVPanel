@@ -1,0 +1,5 @@
+C:\Users\Adam_Sheather\Desktop\ViewCreator\bin\Debug\ViewCreator.dll
+C:\Users\Adam_Sheather\Desktop\ViewCreator\bin\Debug\ViewCreator.pdb
+C:\Users\Adam_Sheather\Desktop\ViewCreator\obj\Debug\ViewCreator.csprojResolveAssemblyReference.cache
+C:\Users\Adam_Sheather\Desktop\ViewCreator\obj\Debug\ViewCreator.dll
+C:\Users\Adam_Sheather\Desktop\ViewCreator\obj\Debug\ViewCreator.pdb
